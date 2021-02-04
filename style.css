@@ -59,6 +59,9 @@ header {
   color: #00adb5;
   transition: 0.5s;
 }
+.translate{
+  max-width: 30px;
+}
 
 /* -MAIN  */
 
