@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working at **Ecommerce-net Company**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React :electron:**
 
-- 📫 How to reach me **aafonsobarbara@gmail.com**
+- 📌 See my UI works [dribbble.com/babilsa](dribbble.com/babilsa)
+
+- 📫 Contact me **aafonsobarbara@gmail.com**
 
 - 📄 See my experiences [aafonsobarbara.github.io/aafonsobarbara/](aafonsobarbara.github.io/aafonsobarbara/)
-
-- 📌 See my UI works **dribbble.com/babilsa**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aafonsobarbara&show_icons=true&locale=en&layout=compact" alt="aafonsobarbara" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aafonsobarbara&show_icons=true&locale=en" alt="aafonsobarbara" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aafonsobarbara&" alt="aafonsobarbara" /></p>
