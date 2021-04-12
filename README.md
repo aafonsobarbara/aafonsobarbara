@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **React :electron:**
 
-- 📌 See my UI works [dribbble.com/babilsa](dribbble.com/babilsa)
+- 📌 See my UI works on [dribbble](https://dribbble.com/babilsa)
 
 - 📫 Contact me **aafonsobarbara@gmail.com**
 
-- 📄 See my experiences [aafonsobarbara.github.io/aafonsobarbara/](aafonsobarbara.github.io/aafonsobarbara/)
+- 📄 See my experiences [aafonsobarbara.github.io](https://aafonsobarbara.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
