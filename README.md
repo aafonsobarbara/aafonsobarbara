@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aafonsobarbara&label=Profile%20views&color=0e75b6&style=flat" alt="aafonsobarbara" /> </p>
 
-- 🔭 I’m currently working at **Ecommerce-net Company**
-
-- 🌱 I’m currently learning **React :electron:**
+- 🔭 I’m currently working at **Banco Inter**
 
 - 📌 See my UI works on [dribbble](https://dribbble.com/babilsa)
 
